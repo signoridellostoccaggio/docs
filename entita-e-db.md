@@ -1,6 +1,6 @@
 # Entità e DB
 
-![](.gitbook/assets/image.png)
+![Schema a livello logico della struttura dati](.gitbook/assets/image.png)
 
 Le entità principali sono cinque, e corrispondono alle collezioni presenti nel database Mongo.
 
